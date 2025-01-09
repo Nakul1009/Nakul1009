@@ -1,8 +1,7 @@
 # 💫 About Me:
 ### 👋 Hi there! I'm Nakul.<br><br>
 ### 👯 I’m eager to contribute to open-source projects and collaborate with the community.<br><br>
-### 🌱 Currently, I'm seeking opportunities to further develop my skills and knowledge.<br><br>
-### ⚡ Fun fact: There are more bugs in my code than in my house!
+### 🌱 Currently, I'm seeking opportunities to further develop my skills and knowledge.<br>
 <br>
 
 ## 🌐 Socials:
